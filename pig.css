@@ -1,0 +1,68 @@
+.bg
+{
+   height:600px; 
+   width:450px;
+   
+   position: fixed;
+}
+.ear
+{
+    height:20%; 
+    width:20%;
+    background-color:rgb(245, 214, 219); 
+    float:left;
+    border-radius:100%;
+    border: 5px solid #F88F92;
+    
+    
+}
+.face
+{
+    height: 60%;
+    width:80%;
+    background-color: #F88F92;
+    margin-left:7%;
+    margin-top:5%;
+    border-radius:100%;
+    position:relative;
+ 
+    
+}
+.eye
+{
+    height:15%; 
+    width:15%;
+    background-color:#6e6e7e ; 
+    float:left;
+    margin-top:10% ;
+    border-radius:100%;
+    border: 6px solid #e9ebf2;
+    
+ 
+}
+.nose
+{
+    height:20%;
+    width:35%;
+    background-color: #FB6485;
+    margin-left:29%;
+    position: absolute;
+    border-radius: 100%;
+    margin-top: 70%;
+    
+   
+     
+    
+}
+.no
+
+{
+    height:40%; 
+    width:40%;
+    background-color:#2F0000 ; 
+    float:left;
+    margin-top:15% ;
+    border-radius:100%;
+    border: 3px solid #670000;
+
+}
